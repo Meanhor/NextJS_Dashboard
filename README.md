@@ -21,26 +21,24 @@ Make sure you have Node.js installed on your machine. You can download it from [
 2. Navigate into the project directory:
 
    ```
-   NextJS_Dashboard
+   cd NextJS_Dashboard
+   ```
+3. Install pnpm
+   ```
+   npm install -g pnpm
+   ```
+4. Install dependencies
+  ```
+   pnpm i
    ```
 
-3. Install dependencies using npm or yarn:
-
-   ```
-   npm install
-   # or
-   yarn install
-   ```
 
 ### Development
 
 To start the development server:
 
     ```
-    npm run dev
-    # or
-    yarn dev
-
+    pnpm dev
     ```
 
 ## Reference
