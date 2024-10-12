@@ -23,7 +23,7 @@ export default function NavLinks() {
   const pathname = usePathname();
 
   // Debugging output
-  console.log("Current pathname:");
+  // console.log("Current pathname:");
 
   return (
     <>
